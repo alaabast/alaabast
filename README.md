@@ -5,6 +5,13 @@ Hello there! 👋 I'm Alaa Albast, a dedicated computer science student with a p
 ## About Me
 I'm a computer science enthusiast currently pursuing my studies with a keen interest in software development. My journey in the world of technology has fueled my curiosity to explore various domains within computer science.
 
+## Programming Languages
+- C
+- Java
+- PHP
+- JavaScript
+- Python
+  
 ## Soft Skills
 - Problem Solving
 - Teamwork
